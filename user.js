@@ -221,7 +221,7 @@ user_pref("browser.newtabpage.activity-stream.feeds.topsites", false);
 user_pref("browser.newtabpage.activity-stream.feeds.section.topstories", false);
 
 /*** POCKET ***/
-user_pref("extensions.pocket.enabled", false);
+user_pref("extensions.pocket.enabled", true);
 
 /** DOWNLOADS ***/
 user_pref("browser.download.useDownloadDir", false);
